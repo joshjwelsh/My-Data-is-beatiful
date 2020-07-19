@@ -1,6 +1,4 @@
-# Audience Score vs Tomatometer on Rotten Tomato
+# My-Data-is-Beautiful
 
-Dataset used: https://www.kaggle.com/aaronjun/rotten-tomato-1960-2020
+This repository holds the code for my posts on r/dataisbeautiful. Each folder is broken down into topics. Each topic has the code and the image that was posted.
 
-
-### Time Period in question: 2000-2018  
